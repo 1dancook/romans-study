@@ -1,0 +1,23 @@
+.admonition.scripture > p {
+  font-size: 1.2em;
+}
+
+.admonition.scripture > p > strong {
+  font-size: 0.7em;
+  color: #111;
+}
+
+.admonition.scripture > p.admonition-title:before {
+  content: "";
+  color: #00b0ff;
+}
+
+.admonition.scripture > .admonition-title {
+  background-color: rgba(0,176,255,.1);
+  border-bottom-color: rgba(0,176,255,.1);
+}
+
+.admonition.scripture {
+  border-left-color: #00b0ff;
+
+}
