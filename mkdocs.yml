@@ -2,8 +2,32 @@ site_name: Study of Romans
 theme: material
 markdown_extensions:
   - admonition
-extra_css:
+extra_css
   - css/custom.css
 use_directory_urls: false
 nav:
   - Background Information: 00-background-info.md
+  - 1 - God's Righteousness Revealed by the Gospel (1:1-4:25):
+    - Introduction (1:1-17): 01-intro.md
+    - God's wrath against Gentiles (1:18-32): 02-wrath-gentiles.md
+    - God's wrath against Jews (2:1-3:8): 03-wrath-jews.md
+    - God's Righteousness through Faith in Christ (3:9-26): 04-christ.md
+    - Justification by Faith (3:27-4:25): 05-justification.md
+  - 2 - Changed by the Gospel (5:1-8:39):
+    - Benefits of being Justified (5:1-11): 06-benefits.md
+    - Death in Adam, Life in Christ (5:12-21): 07-life.md
+    - Dead to Sin, Alive to God (6:1-23): 08-dead-alive.md
+    - Dead to the Law (7:1-25): 09-dead-law.md
+    - Life by the Power of the Spirit (8:1-17): 10-power.md
+    - Present Sufferings and Future Glory (8:18-39): 11-suffering.md
+  - 3 - The Gospel Fulfills God's Promise to Israel(9:1-11:36):
+    - The Past (9:1-29): 12-israel-past.md
+    - The Present (9:30-10:21): 13-israel-present.md
+    - The Future (11:1-36): 14-israel-future.md
+  - 4 - Transformed Living (12:1-15:13):
+    - 'Response: Transformed Lives (12:1-2)': 15-response.md
+    - Transformed Lives in Christian Community (12:3-21): 16-community.md
+    - Transformed Lives and the Government (13:1-7): 17-government.md
+    - Transformed Lives with Neighbors + Looking forward to Christ's Return (13:8-14): 18-neighbors.md
+    - Transformed Lives and Mutual Acceptance (14:1-15:13): 19-mutual.md
+  - Conclusion (15:14-16:27): 20-conclusion.md

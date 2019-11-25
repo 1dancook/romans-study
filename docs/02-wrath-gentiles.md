@@ -1,0 +1,1 @@
+# God's Wrath against Gentiles (Romans 1:18-32)
