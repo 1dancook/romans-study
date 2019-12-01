@@ -1,1 +1,6 @@
 # Transformed Lives and the Government (Romans 13:1-7)
+
+### Main Passage
+
+!!! Scripture "Romans 13:1-7 (ESV)"
+    **1**  Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. **2** Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment. **3** For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, **4** for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer. **5** Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience. **6** For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing. **7** Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.  

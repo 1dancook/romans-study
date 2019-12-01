@@ -2,7 +2,7 @@ site_name: Study of Romans
 theme: material
 markdown_extensions:
   - admonition
-extra_css
+extra_css:
   - css/custom.css
 use_directory_urls: false
 nav:
@@ -21,9 +21,9 @@ nav:
     - Life by the Power of the Spirit (8:1-17): 10-power.md
     - Present Sufferings and Future Glory (8:18-39): 11-suffering.md
   - 3 - The Gospel Fulfills God's Promise to Israel(9:1-11:36):
-    - The Past (9:1-29): 12-israel-past.md
-    - The Present (9:30-10:21): 13-israel-present.md
-    - The Future (11:1-36): 14-israel-future.md
+    - 'Israel: The Past (9:1-29)': 12-israel-past.md
+    - 'Israel: The Present (9:30-10:21)': 13-israel-present.md
+    - 'Israel: The Future (11:1-36)': 14-israel-future.md
   - 4 - Transformed Living (12:1-15:13):
     - 'Response: Transformed Lives (12:1-2)': 15-response.md
     - Transformed Lives in Christian Community (12:3-21): 16-community.md
