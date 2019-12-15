@@ -22,7 +22,7 @@
 
 }
 
-.md-typeset code, .md-typeset pre {
+.md-typeset code, .md-typeset pre, code, pre {
   font-family: "Roboto","Helvetica Neue","Helvetica","Arial","sans-serif";
   color: red;
 }
