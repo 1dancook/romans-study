@@ -5,35 +5,35 @@
 !!! Scripture "Romans 1:18-32 (ESV)"
     **18** For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth. **19** For what can be known about God is plain to them, because God has shown it to them. **20** For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse. **21** For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. **22** Claiming to be wise, they became fools, **23** and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.  
     
-    **24** Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, **25** because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen.  
+    **24** Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, **25** because they exchanged the truth about God for a lie and worshipped and served the creature rather than the Creator, who is blessed forever! Amen.  
     
     **26** For this reason God gave them up to dishonorable passions. For their women exchanged natural relations for those that are contrary to nature; **27** and the men likewise gave up natural relations with women and were consumed with passion for one another, men committing shameless acts with men and receiving in themselves the due penalty for their error.  
     
     **28** And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done. **29** They were filled with all manner of unrighteousness, evil, covetousness, malice. They are full of envy, murder, strife, deceit, maliciousness. They are gossips, **30** slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents, **31** foolish, faithless, heartless, ruthless. **32** Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.  
     
 
-## Willful Idolatry 1:18-23
+## Wilful Idolatry 1:18-23
 
 ### Observations and Notes
 - **1:18** The phrase `the wrath of God is revealed from heaven` is basically a way of saying, `God is angry`. In contrast to verse 17 - `The righteousness of God is revealed` here the `wrath of God is revealed`.
-- **1:19-22** Even philiosphers at the time argued that humanity was not in a position to deny the existence of the gods and that the human mind points to what God is like. Jewish evangelism of gentiles also utilized this reasoning (all people know that God or gods exist) and they wanted to help people know the one true God.
+- **1:19-22** Even philosophers at the time argued that humanity was not in a position to deny the existence of the gods and that the human mind points to what God is like. Jewish evangelism of gentiles also utilized this reasoning (all people know that God or gods exist) and they wanted to help people know the one true God.
 
 ### Questions and Application
 
 1. Does "God is wrathful" fit into your view of God? What does this mean exactly?
     - We can easily have an idealistic, romantic notion of who God is and what he is like. The Bible is not like this.
     - The concept of God being wrathful has to be understood in the context of God being in relationship to creation. 
-    - The backdrop to this passage is Genesis 3 and the idea of mankinds refusal to live in relationship with God and instead grasp to become him
+    - The backdrop to this passage is Genesis 3 and the idea of mankind's refusal to live in relationship with God and instead grasp to become him
     - According to the narrative of Genesis 3–11, the denial of dependence on and accountability to God results in growing corruption within society. 
-    - The wrath of God is refered to as a future event (Rom 2:5, 8, 5:9; Eph 5:6, 1 Thess 1:10, 5:9). In this context it is an activity.
+    - The wrath of God is referred to as a future event (Rom 2:5, 8, 5:9; Eph 5:6, 1 Thess 1:10, 5:9). In this context it is an activity.
     - God's wrath in this context is his response to sin but it is not vindictive or malicious - his response is just.
-    - In 1:18 this wrath of God is something that is currently being revealed. It is indirect rather than direct. It's an expression of God's permissive will and not his active will. He is not shown in this passage to be actively responding to himan sin. Sinful actions bear fruit to more and more corruption, and this becomes in itself a penalty for sin. 
+    - In 1:18 this wrath of God is something that is currently being revealed. It is indirect rather than direct. It's an expression of God's permissive will and not his active will. He is not shown in this passage to be actively responding to human sin. Sinful actions bear fruit to more and more corruption, and this becomes in itself a penalty for sin. 
     - This passage means to show that this entire downward spiral is God's punishment that we administer to ourselves.
-    - This really gives us a back drop to the need of the gospel. We were like this. Hopeuless in our sin. God's wrath was shown against us and gave us up to our own sinful passions and desires. But he loves us and so he did something about it even though we didn't deserve it.
+    - This really gives us a back drop to the need of the gospel. We were like this. Hopeless in our sin. God's wrath was shown against us and gave us up to our own sinful passions and desires. But he loves us and so he did something about it even though we didn't deserve it.
 
 
-1. 1:18 - what is the truth that the wicked supress? How do they do this?
-    - The supress the truth about who God is, namely, his character (1:19-20)
+1. 1:18 - what is the truth that the wicked suppress? How do they do this?
+    - The suppress the truth about who God is, namely, his character (1:19-20)
     - They do it by their unrighteousness (1:18)
     - They do it by idolatry (1:23)
     - `worshiped and served the creature rather than the Creator` (1:25)
@@ -48,7 +48,7 @@
     - Since when? Since the creation of the world
 
 3. What does it mean "they are without excuse?" (20)
-    - In verse 21 it is clear - even though they knew God they did not honor him. They have no excuse for living apart from God and becomming so corrupt.
+    - In verse 21 it is clear - even though they knew God they did not honor him. They have no excuse for living apart from God and becoming so corrupt.
 
 4. Even though people know God, what happened to them for not honoring him?
     - they became futile in their thinking, and 
@@ -69,7 +69,7 @@ A big point here is that distorting one's view about God's character perverts on
 ### Questions and Application
 
 1. `God gave them up` occurs three times. What are the reasons for this?
-    - 24: idolatry - `exchanged the glory of the immortal God for images...` (1:23) also idolotry verse 25. 
+    - 24: idolatry - `exchanged the glory of the immortal God for images...` (1:23) also idolatry verse 25. 
     - 26: idolatry - `they exchanged the truth about God for a lie and worshiped and served the creature...` (1:25)
     - 28: `did not acknowledge God` (1:28)
 
@@ -97,10 +97,10 @@ A big point here is that distorting one's view about God's character perverts on
     - Other notes:
         - The culture at the time openly approved of homosexuality
         - Greek men were commonly bisexual
-        - elements of greek culture helped boys to grow into homosexuality
-        - men openly practiced homosexuality with young boys
+        - elements of Greek culture helped boys to grow into homosexuality
+        - men openly practised homosexuality with young boys
         - legal marriage between same sex couples was recognized
-        - The emporor Nero got a boy, castrated him, and married him (full ceremony). The boy became his 'wife'. Later, Nero lived with another man and Nero was the 'wife'.
+        - The emperor Nero got a boy, castrated him, and married him (full ceremony). The boy became his 'wife'. Later, Nero lived with another man and Nero was the 'wife'.
 
 5. What is the gentile view of these unrighteous practices? (1:32)
     - they know it is wrong
