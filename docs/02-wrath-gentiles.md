@@ -58,7 +58,7 @@
 5. How does this passage help us in evangelism?
 
 
-## Other Pagan Deeds (1:24-32)
+## Other Sinful Actions (1:24-32)
 
 A big point here is that distorting one's view about God's character perverts one's sexuality and sexual treatment of other people. Ancient Jewish people recognized two things about the gentiles: idolatry and sexual immorality. 
 
