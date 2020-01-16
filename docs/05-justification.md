@@ -1,9 +1,8 @@
-# Justification by Faith (3:27-4:25)
+# Justification by Faith (4:1-4:25)
 
 ### Main Passage
 
-!!! Scripture "Romans 3:27-4:25 (ESV)"
-    **27** Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith. **28** For we hold that one is justified by faith apart from works of the law. **29** Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also, **30** since God is one—who will justify the circumcised by faith and the uncircumcised through faith. **31** Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.  
+!!! Scripture "Romans 4:1-25 (ESV)"
     
     **4:1**  What then shall we say was gained by Abraham, our forefather according to the flesh? **2** For if Abraham was justified by works, he has something to boast about, but not before God. **3** For what does the Scripture say? “Abraham believed God, and it was counted to him as righteousness.” **4** Now to the one who works, his wages are not counted as a gift but as his due. **5** And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness, **6** just as David also speaks of the blessing of the one to whom God counts righteousness apart from works:  
     

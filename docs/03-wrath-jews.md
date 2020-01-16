@@ -1,8 +1,8 @@
-# God's Wrath against Jews (2:1-3:8)
+# God's Wrath against Moralists and Jews (2:1-29)
 
 ### Main Passage
 
-!!! Scripture "Romans 2:1-3:8 (ESV)"
+!!! Scripture "Romans 2:1-29 (ESV)"
     **1**  Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things. **2** We know that the judgment of God rightly falls on those who practice such things. **3** Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God? **4** Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance? **5** But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.  
     
     **6** He will render to each one according to his works: **7** to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life; **8** but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. **9** There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek, **10** but glory and honor and peace for everyone who does good, the Jew first and also the Greek. **11** For God shows no partiality.  
@@ -13,8 +13,18 @@
     
     **25** For circumcision indeed is of value if you obey the law, but if you break the law, your circumcision becomes uncircumcision. **26** So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision? **27** Then he who is physically uncircumcised but keeps the law will condemn you who have the written code and circumcision but break the law. **28** For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. **29** But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter. His praise is not from man but from God.  
       
-    **3:1**  Then what advantage has the Jew? Or what is the value of circumcision? **2** Much in every way. To begin with, the Jews were entrusted with the oracles of God. **3** What if some were unfaithful? Does their faithlessness nullify the faithfulness of God? **4** By no means! Let God be true though every one were a liar, as it is written,  
-    
-    “That you may be justified in your words, and prevail when you are judged.”  
-    
-    **5** But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.) **6** By no means! For then how could God judge the world? **7** But if through my lie God's truth abounds to his glory, why am I still being condemned as a sinner? **8** And why not do evil that good may come?—as some people slanderously charge us with saying. Their condemnation is just.  
+
+
+
+2:12 Is God Fair to Condemn Those Who Have Never Heard? (hard sayings)
+
+
+
+2:1-11 No Partiality
+
+
+2:12-16 Stricter Judgment
+
+2:17-24 Disobeying the Law
+
+2:25-29 True Judaism
