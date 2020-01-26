@@ -18,33 +18,33 @@
 
 
 !!! Caution "Be careful about hasty application here..."
-    Paul is setting up different arguments here and some of the statements made in chapter 2 are points along a line that lead to final points written later. Be careful not to hastily make some conclusions from this text. For example you can find that it says, `the doers of the law ... will be justified`. Paul is using these kind of points to draw the audience into his better conclusions. In Chapter 3 it becomes obvious that even though the above statement is true, the reality is that no one is good and no one is justified by doing the law.
+    Paul is setting up different arguments here and some of the statements made in chapter 2 are points along a line that lead to final points written later. Be careful not to hastily make some conclusions from this text. For example you can find that it says, `the doers of the law ... will be justified`. The statement itself is true but has a broader context. Paul is using points like this to draw the audience into other conclusions. In Chapter 3 it becomes obvious that even though the above statement is true, the reality is that no one is good and no one is justified by doing the law.
 
 
 ## 2:1-11 God shows no Partiality
 
 ### Observations and Notes
 - Paul speaks here to those who think they are generally 'moral' people. The assumption is that they are proud of themselves for not being like those described in Romans 1.
-- 2:1 - `practice the same things` - the 'moral' person is the same as the 'immoral' person in Romans 1. The condemnation here is about practicing the same things, not about judging. The conduct might not be exactly the same, but sin is sin.
+- 2:1 - `practice the same things` - the 'moral' person is the same as the 'immoral' person in Romans 1. The condemnation given here is about practicing the same things, not about judging. The conduct might not be exactly the same, but sin is sin.
 - 2:5 - "day of wrath" = "day of the Lord" in the Old Testament. This is a day when God sits as judge in his court and judges the world by his justice.
 - God's impartiality was one of the most commonly stressed doctrines of Judaism 
 
 ### Questions and Application
 1. What kind of judgement is this in 2:6-11? Is it about eternal judgement? 
-    - It would appear so based on 
+    - Consider that it says `eternal life` in verse 7 and it is evidential.
 
 2. What kind of person does this passage describe?
     - a moral person that sins (2:1)
     - a person that thinks they are superior to obviously immoral people (2:1)
     - a person who thinks they deserve God's kindness because of their behavior
-    - a person who cannot escape God's judgement just because of morality (2:4)
+    - a person who cannot escape God's judgement just because of being moral (2:4)
 
 3. How does God's kindness lead to repentance? (2:4)
 
-3. What is the point of this passage?
+4. What is the point of this passage?
     - the 'moral' person is just as guilty as an 'immoral' person and just as deserving of God's wrath
 
-4. Is there anyone that is good (2:7) and not bad (2:8)?
+5. Is there anyone that is good (2:7) and not bad (2:8)?
     - See Romans 3:23 "all have sinned and fall short of the glory of God"
     - The point in 2:6-11 is that God is not partial. God will render to all according to their work. The immoral man, the moral man, and even the Jew. In other words, just because you are good does not mean you can escape God's judgement.
 
@@ -55,33 +55,34 @@
 
 ### Questions and Application
 1. What is the main point of 2:12-13?
-    - the person who has the law might think he is safe from judgement, but he is not
-    - the gentile who doesn't have the law might think he is exempt from judgement, but he is not
-    - only the does of the law are justified
+    - The person who has the law might think he is safe from judgement, but he is not.
+    - The gentile who doesn't have the law might think he is exempt from judgement, but he is not.
+    - Only the does of the law are justified.
 
 2. Is God fair to condemn those who have never heard the gospel or who do not have the law? (2:12)
-    - 2:12-16 shows us that, Gentile or Jew, people are judged according to the standards that they know. Gentiles might not have the law, but they have the work of the law written on their hearts. People have an innate knowledge of right and wrong, but this is not explicit like written law.
+    - 2:12-16 shows us that, Gentile or Jew, people are judged according to the standards that they know. Gentiles might not have the law, but they have the work of the law written on their hearts and a working conscience. People have an innate knowledge of right and wrong, but this is not explicit like written law.
     - Many pagan authors of Paul's day referred to the "unwritten law" within man.
     - This passage does not support moral subjectivism. `...they are a law to themselves` is not the same as `they make a law for themselves`
     - While Paul writes that a Gentile can potentially do the things contained in the law, he does not write that a Gentile could fulfill the requirements of the law by nature (or by his own effort).
 
 3. How does this passage help us with evangelism?
-    - no one is without excuse before God - whether they know the law or not.
+    - It gives us more understand of the condition and destination of the lost.
+    - No one is without excuse before God - whether they know the law or not.
     - There is a day when God will judge.
 
 
 ## 2:17-24 Disobeying the Law
 ### Observations and Notes
-- the style of argument here is diatribe. It was often used to teach and exhort rather than to attack. To use this argument style an imaginary opponent represents an idealized wrong position and the speaker or writer then reduces this position to its most absurd logical conclusion. In 2:17~ the 'opponent' is the idealized hypocrite, and yet reveals the evils of any hypocrite.
-- diatribe often used pointed rhetorical questions such as seen in 2:21-23
-- temple robbery was considered one of the most shameful crimes
+- The style of argument here is diatribe. It was often used to teach and exhort rather than to attack. To use this argument style an imaginary opponent represents an idealized wrong position and the speaker or writer then reduces this position to its most absurd logical conclusion. In 2:17~ the 'opponent' is the idealized hypocrite, and yet reveals the evils of any hypocrite.
+- Diatribe often used pointed rhetorical questions as you can see in 2:21-23
+- Temple robbery was considered one of the most shameful crimes
 - The quote in 2:24 is from Ezekiel 36:20-23 (see below)
 
 
 ### Questions and Application
 1. Who is Paul writing to in 2:17-24 and what is his main point here?
-    - He is writing to the Jews who have the law and know what living a good moral life is
-    - Jews also have the opportunity to pass the law on to others
+    - He is writing to the Jews who have the law and know what living a good moral life requires.
+    - Jews also have the opportunity to pass the law on to others.
     - His point is in 2:23 - `You who boast in the law dishonor God by breaking the law.` This is proven more by how God's name is blasphemed among the Gentiles because of the Jews.
 
 2. Is the name of God blasphemed among non-Christians because of Christian behavior? 
@@ -90,8 +91,11 @@
 ## 2:25-29 True Jews
 
 ### Observations and Notes
-- *In Paul's day, some Rabbis taught that Abraham sat at the entrance of hell and made certain that none of his circumcised descendants went there. Some Rabbis also taught "God will judge the Gentiles with one measure and the Jews with another" and "All Israelites will have part in the world to come."*
-- *Circumcision (and also baptism) does about the same thing that a label on a can does. If the outer label doesn't match with what is on the inside, something is wrong!*
+- In Paul's time, some Rabbis taught that: 
+    - Abraham sat at the entrance of hell and made certain that none of his circumcised descendants went there.
+    - God will judge the Gentiles with one measure and the Jews with another
+    - All Israelites will have part in the world to come.
+- Circumcision (and also baptism) is like having a a label on a can of food. 
 
 ### Questions and Application
 
