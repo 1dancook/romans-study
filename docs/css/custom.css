@@ -25,4 +25,9 @@
 .md-typeset code, .md-typeset pre, code, pre {
   font-family: "Roboto","Helvetica Neue","Helvetica","Arial","sans-serif";
   color: red;
+  font-size: 0.8rem;
+}
+
+.admonition > p > code {
+  font-size: 0.64rem;
 }
