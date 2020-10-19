@@ -1,4 +1,4 @@
 resources/
 .vscode/
 site/
-.DS_Store/
+.DS_Store/*.project.md
