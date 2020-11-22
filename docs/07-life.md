@@ -31,7 +31,7 @@ Paul in this section shows that justification by grace reaches and affects us in
     - Paul is not denying personal responsibility for sin by pointing here to Adam.
     - death reigned from Adam to Moses
     - All people are born spiritually dead (See Ephesians 2:1-3).
-    - Adam's sin had this broad effect because he was a type of the one to come. Jesus and Adam both represented all of humanity but the results were greatly different.
+    - Adam's sin had this broad effect because he was a type of the one to come. Jesus and Adam both represented all of humanity but the results were greatly different. Both Adam and Jesus are in an interesting position as their lives affected all humanity.
     - judgment following Adam's trespass brought condemnation
     - death reigned
     - led to condemnation for all men
@@ -45,7 +45,7 @@ Paul in this section shows that justification by grace reaches and affects us in
     - the justification/righteousness results in eternal life
 
 3. What about you? What is your current identity based on this?
-    - Look at verse from 1 Cor.
+    - Look at verse from 1 Corinthians 15:21-22
     - If you are no longer in Adam, and you are in Christ, what does that mean?
     - "I am ..."
 
